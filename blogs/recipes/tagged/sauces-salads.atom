@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.totalsweet.co.uk/blogs/recipes.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.totalsweet.co.uk/blogs/recipes"/>
+  <link rel="self" type="application/atom+xml" href="https://www.totalsweet.co.uk/blogs/recipes/tagged/sauces-salads.atom"/>
+  <title>Total Sweet - Recipes</title>
+  <updated>2023-02-15T13:51:19+00:00</updated>
+  <author>
+    <name>Total Sweet</name>
+  </author>
+  <entry>
+    <id>https://www.totalsweet.co.uk/blogs/recipes/blueberry-compote</id>
+    <published>2023-02-15T09:35:26+00:00</published>
+    <updated>2023-02-15T12:21:24+00:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totalsweet.co.uk/blogs/recipes/blueberry-compote"/>
+    <title>Blueberry Compote</title>
+    <author>
+      <name>Sydney Clark</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8">
+<p>Serves: 1</p>
+<p>Cooking Time: 10 minutes</p>
+<h1>Ingredients:</h1>
+<ul class="wprm-recipe-ingredients">
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">2tbsp Frozen Blueberries (or fruit of choice)</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">1tsp Total Sweet</span></li>
+<li class="wprm-recipe-ingredient"><span class="wprm-recipe-ingredient-amount">Water</span></li>
+</ul>
+<h1><span class="wprm-recipe-ingredient-name">Method:</span></h1>
+<ol>
+<li><span class="wprm-recipe-ingredient-name">Add the blueberries to a saucepan and place over medium heat. </span></li>
+<li><span class="wprm-recipe-ingredient-name">Allow the blueberries to bleed and come to a slow bubble before adding the Total Sweet and a splash of water. </span></li>
+<li><span class="wprm-recipe-ingredient-name">When the mixture starts to resemble a light jam, remove the pan from the heat and add to a small dish to cool and thicken.</span></li>
+<li><span class="wprm-recipe-ingredient-name">Use straight away or store in a sterilised, air-tight jar in the fridge. </span></li>
+</ol>
+<p>Giving this recipe a go? <span>Tag us on </span><a href="https://instagram.com/totalsweetxylitol" target="_blank" title="Total Sweet Xylitol Instagram" rel="noopener noreferrer" aria-describedby="a11y-new-window-external-message">Instagram</a><span> for the chance to be featured.</span></p>]]>
+    </content>
+  </entry>
+  <entry>
+    <id>https://www.totalsweet.co.uk/blogs/recipes/rhubarb-and-raspberry-jam</id>
+    <published>2022-10-19T20:04:45+01:00</published>
+    <updated>2022-10-19T20:05:38+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totalsweet.co.uk/blogs/recipes/rhubarb-and-raspberry-jam"/>
+    <title>Rhubarb and Raspberry Jam</title>
+    <author>
+      <name>Elisabeth Baylis</name>
+    </author>
+    <content type="html">
+      <![CDATA[<meta charset="utf-8"><header class="header-recipe ">
+<h1 class="header-recipe__title +alt">Rhubarb and Raspberry Jam</h1>
+<span class="header-recipe__property">Serves:<span> </span><span class="header-recipe__property-value +alt">-<span> </span></span></span><span class="header-recipe__property">Cooking time:<span> </span><span class="header-recipe__property-value +alt">50 minutes</span></span>
+<div class="header-recipe__control"></div>
+</header>
+<div class="rich-text rich-text--alt">
+<p>Spring means rhubarb, and this simple Rhubarb &amp; Raspberry Jam recipe not only tastes amazing, but takes less than an hour to go from the garden to the jar.</p>
+<meta charset="utf-8">
+<header class="header-aside header-aside--underline">
+<h2 class="header-aside__title +alt">Ingredients:</h2>
+</header>
+<ul class="stack">
+<li class="stack__item">
+<div class="part "><strong class="part__name">900g rhubarb – sliced</strong></div>
+</li>
+<li class="stack__item">
+<div class="part "><strong class="part__name">500g raspberries – fresh or frozen</strong></div>
+</li>
+<li class="stack__item">
+<div class="part "><strong class="part__name">150ml water</strong></div>
+</li>
+<li class="stack__item">
+<div class="part "><strong class="part__name">1.35kg Total Sweet Xylitol</strong></div>
+</li>
+</ul>
+<p> </p>
+<meta charset="utf-8">
+<h2 class="h-reg +alt">Method:</h2>
+<ol>
+<li>Cook the rhubarb in the water at a low temperature until tender</li>
+<li>Add the raspberries and cook until they’re soft</li>
+<li>Add the Total Sweet and stir, do not be tempted to turn up the heat until thoroughly dissolved. Make sure every bit of xylitol is dissolved - including any on the side of the pan or spoon, if not the jam can crystalise when it cools later.</li>
+<li>Once dissolved bring the jam quickly to boil and boil hard until setting point is reached, approximately 20/25 minutes</li>
+<li>To test for setting put a small amount of jam on a cold plate and leave for a minute – if the jam wrinkles when you push a finger gently across the top the jam is ready. Don’t forget to take the pan off the heat whilst you are testing!</li>
+<li>Skim off any scum and pour into warm, sterilised jars.</li>
+<li>Enjoy!</li>
+</ol>
+</div>]]>
+    </content>
+  </entry>
+</feed>
