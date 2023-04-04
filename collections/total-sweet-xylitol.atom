@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xml:lang="en" xmlns="http://www.w3.org/2005/Atom" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/" xmlns:s="http://jadedpixel.com/-/spec/shopify">
+  <id>https://www.totalsweet.co.uk/collections/all.atom</id>
+  <link rel="alternate" type="text/html" href="https://www.totalsweet.co.uk/collections/all"/>
+  <link rel="self" type="application/atom+xml" href="https://www.totalsweet.co.uk/collections/total-sweet-xylitol.atom"/>
+  <title>Total Sweet</title>
+  <updated>2022-10-19T19:08:49+01:00</updated>
+  <author>
+    <name>Total Sweet</name>
+  </author>
+  <entry>
+    <id>https://www.totalsweet.co.uk/products/7961754534191</id>
+    <published>2022-10-19T19:08:49+01:00</published>
+    <updated>2022-10-19T19:08:49+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totalsweet.co.uk/products/total-sweet-100-natural-xylitol-sugar-alternative-1kg-1"/>
+    <title>Total Sweet 100% Natural Xylitol Sugar Alternative 1kg</title>
+    <s:type></s:type>
+    <s:vendor>Total Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/9379/5887/products/TSproduct_df03a19c-ff0b-4a4c-b594-6df5973e79b3.jpg?v=1666202946"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Total Sweet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            12.49
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Finally – a low-cal sugar alternative that tastes like the real deal!</b></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1">Total Sweet is Europe’s leading brand of natural xylitol and is made from sustainable European birch and beech wood. Xylitol looks, feels and tastes like sugar and can be used in cooking or to sweeten hot drinks, fruit or cereal - just like the real thing</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1">Total Sweet Xylitol has 40% less calories than sugar, significantly less ‘available’ carbohydrates and a GI value of just 7 - nearly ten times lower than sugar. Xylitol makes it the perfect dieting companion, and an easy way for people to consume less sugar. Furthermore, it actively helps to promote healthy teeth</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">What are the benefits of xylitol?</b></p>
+<p data-mce-fragment="1">Total Sweet Xylitol benefits include:</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Total Sweet Xylitol makes it easy to cut down on sugar:</b><span data-mce-fragment="1"> W</span>hether you want to lose weight or cut down on your sugar intake, Total Sweet Xylitol can help. Swapping your sugar for Xylitol lets you enjoy an indulgent cake, sprinkle of sweetness on your cereal, or cup of tea just how you like it with less calories and carbs</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Total Sweet Xylitol offers steady energy release</b>: It has less ‘available’ carbohydrates (those absorbed and used by the body) and 40% less calories compared to normal sugar. It has the lowest GI value of all sugar alternatives on the market and is about 10 times lower than sugar. This means it doesn’t affect your blood sugar levels as dramatically as sugar does</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Total Sweet Xylitol promotes healthy teeth:</b><span data-mce-fragment="1"> </span>Xylitol is already an ingredient in many chewing gums, toothpastes, mints and mouth washes for its dental benefits. It can help to create an alkaline environment in the mouth, which can help reduce cavities and prevent plaque build-up. It can also help the mouth absorb calcium and other minerals that help your teeth stay strong and healthy</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">You can cook with Total Sweet Xylitol:</b><span data-mce-fragment="1"> R</span>eplace sugar ‘one for one’ in your baking for less calorific cakes, biscuits and other treats</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Total Sweet Xylitol respects the environment:</b><span data-mce-fragment="1"> T</span>he European birch and beech wood used to make Xylitol are sustainably grown for paper making, and Xylitol is merely a bi-product. No trees are specifically cut down to make this sugar alternative. Total Sweet have also helped to plant over 50,000 trees to date through the Trees For The Future organisation – and that’s pretty sweet!</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1">Cheat on sugar today with Total Sweet!</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% Natural xylitol sugar alternative</li>
+<li data-mce-fragment="1">Made from natural, sustainable birch wood</li>
+<li data-mce-fragment="1">Helps promote a healthy smile</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.totalsweet.co.uk/products/7961754534191</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">12.49</s:price>
+      <s:sku></s:sku>
+      <s:grams>1000</s:grams>
+    </s:variant>
+  </entry>
+  <entry>
+    <id>https://www.totalsweet.co.uk/products/7961754304815</id>
+    <published>2022-10-19T19:07:21+01:00</published>
+    <updated>2022-10-19T19:07:21+01:00</updated>
+    <link rel="alternate" type="text/html" href="https://www.totalsweet.co.uk/products/total-sweet-100-natural-xylitol-sugar-alternative-1kg"/>
+    <title>Total Sweet 100% Natural Xylitol Sugar Alternative 225g</title>
+    <s:type></s:type>
+    <s:vendor>Total Sweet</s:vendor>
+    <summary type="html">
+      <![CDATA[<table border="0">
+  <tr>
+    <td width="200"><img width="200" src="https://cdn.shopify.com/s/files/1/0555/9379/5887/products/TSproduct.jpg?v=1666202842"></td>
+    <td valign="bottom">
+      <p>
+
+        <strong>Vendor: </strong>Total Sweet<br>
+        <strong>Type: </strong><br>
+        <strong>Price: </strong>
+            3.45
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2"><meta charset="utf-8">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Finally – a low-cal sugar alternative that tastes like the real deal!</b></p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1">Total Sweet is Europe’s leading brand of natural xylitol and is made from sustainable European birch and beech wood. Xylitol looks, feels and tastes like sugar and can be used in cooking or to sweeten hot drinks, fruit or cereal - just like the real thing</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1">Total Sweet Xylitol has 40% less calories than sugar, significantly less ‘available’ carbohydrates and a GI value of just 7 - nearly ten times lower than sugar. Xylitol makes it the perfect dieting companion, and an easy way for people to consume less sugar. Furthermore, it actively helps to promote healthy teeth</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">What are the benefits of xylitol?</b></p>
+<p data-mce-fragment="1">Total Sweet Xylitol benefits include:</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Total Sweet Xylitol makes it easy to cut down on sugar:</b><span data-mce-fragment="1"> W</span>hether you want to lose weight or cut down on your sugar intake, Total Sweet Xylitol can help. Swapping your sugar for Xylitol lets you enjoy an indulgent cake, sprinkle of sweetness on your cereal, or cup of tea just how you like it with less calories and carbs</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Total Sweet Xylitol offers steady energy release</b>: It has less ‘available’ carbohydrates (those absorbed and used by the body) and 40% less calories compared to normal sugar. It has the lowest GI value of all sugar alternatives on the market and is about 10 times lower than sugar. This means it doesn’t affect your blood sugar levels as dramatically as sugar does</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Total Sweet Xylitol promotes healthy teeth:</b><span data-mce-fragment="1"> </span>Xylitol is already an ingredient in many chewing gums, toothpastes, mints and mouth washes for its dental benefits. It can help to create an alkaline environment in the mouth, which can help reduce cavities and prevent plaque build-up. It can also help the mouth absorb calcium and other minerals that help your teeth stay strong and healthy</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">You can cook with Total Sweet Xylitol:</b><span data-mce-fragment="1"> R</span>eplace sugar ‘one for one’ in your baking for less calorific cakes, biscuits and other treats</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1"><b data-mce-fragment="1">Total Sweet Xylitol respects the environment:</b><span data-mce-fragment="1"> T</span>he European birch and beech wood used to make Xylitol are sustainably grown for paper making, and Xylitol is merely a bi-product. No trees are specifically cut down to make this sugar alternative. Total Sweet have also helped to plant over 50,000 trees to date through the Trees For The Future organisation – and that’s pretty sweet!</p>
+<br data-mce-fragment="1">
+<p data-mce-fragment="1">Cheat on sugar today with Total Sweet!</p>
+<p data-mce-fragment="1"> <br data-mce-fragment="1"></p>
+<ul data-mce-fragment="1">
+<li data-mce-fragment="1">100% Natural xylitol sugar alternative</li>
+<li data-mce-fragment="1">Made from natural, sustainable birch wood</li>
+<li data-mce-fragment="1">Helps promote a healthy smile</li>
+</ul></td>
+  </tr>
+</table>
+]]>
+    </summary>
+    <s:variant>
+      <id>https://www.totalsweet.co.uk/products/7961754304815</id>
+      <title>Default Title</title>
+      <s:price currency="GBP">3.45</s:price>
+      <s:sku></s:sku>
+      <s:grams>225</s:grams>
+    </s:variant>
+  </entry>
+</feed>
